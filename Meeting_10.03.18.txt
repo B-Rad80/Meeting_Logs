@@ -1,0 +1,15 @@
+The 4orce
+
+Andrew Hack
+Ben Conner
+Brandon Roemer
+Ryan LaRocque
+Julie Hayes
+
+Went over the basic framework of how the website will work using Django.
+
+Discussed until it was generally understood how it worked.
+
+Brandon has created a 'template' of sorts that we can all make sure we understand how the website will work.
+
+Finished up making repositories and touching up the milestone 1 document.

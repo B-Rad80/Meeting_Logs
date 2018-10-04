@@ -1,0 +1,36 @@
+The 4orce
+
+Andrew Hack
+Ben Conner
+Brandon Roemer
+Ryan LaRocque
+Julie Hayes
+
+Considered Javascript, decided Django/python would give more functionality.
+
+HTML/CSS
+Python/Django
+SQLite3
+
+Initial Scope:
+Who is in the Hubzones?
+
+Expand later into Agile, add on more features.
+
+Discussion on ultimate direction:
+Take in applications and current employees.
+
+String Vision = The Process of becoming a HUBzone qualified company is seamless and easy.
+
+Motivation = Lack of available products currently on the market that provide similar services.
+
+Finished off Milestone 1 except for the git stuff.
+
+Post MVP: 
+Login screen
+Keyword searching
+integrate with geographic/demographic data
+
+Next meeting: 
+Make sure repositories are ready
+start giving tasks
